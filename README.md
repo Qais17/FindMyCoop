@@ -10,11 +10,15 @@
 
 ## Collaborateurs:  
 
-Angie Browne  
-Mathieu Becerra  
-Sébastien Javary 
-François Flachet
-Romain Ruperez
+- Angie Browne  
+
+- Mathieu Becerra  
+
+- Sébastien Javary 
+
+- François Flachet
+
+- Romain Ruperez
 
 
 ## Description:  
